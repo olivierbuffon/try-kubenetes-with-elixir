@@ -1,0 +1,16 @@
+Warning: Xing stream size off by more than 1%, fuzzy seeking may be even more fuzzy than by design!
+Warning: Xing stream size off by more than 1%, fuzzy seeking may be even more fuzzy than by design!
+Warning: Xing stream size off by more than 1%, fuzzy seeking may be even more fuzzy than by design!
+Warning: Xing stream size off by more than 1%, fuzzy seeking may be even more fuzzy than by design!
+Warning: Xing stream size off by more than 1%, fuzzy seeking may be even more fuzzy than by design!
+read response: 200
+D, [2020-03-26T12:06:13.180737 #71220] DEBUG -- : Player: play 524524263
+D, [2020-03-26T12:06:13.181129 #71220] DEBUG -- : DownloadThread start
+D, [2020-03-26T12:06:13.466150 #71220] DEBUG -- : DownloadThread response: 200
+D, [2020-03-26T12:07:05.794598 #71220] DEBUG -- : Player: play 694186477
+D, [2020-03-26T12:07:14.230976 #71220] DEBUG -- : Player: play 115908520
+D, [2020-03-26T12:07:14.231552 #71220] DEBUG -- : DownloadThread start
+D, [2020-03-26T12:07:14.656140 #71220] DEBUG -- : DownloadThread response: 200
+D, [2020-03-26T15:06:28.642522 #71220] DEBUG -- : Player: play 659731160
+D, [2020-03-26T15:06:28.644832 #71220] DEBUG -- : DownloadThread start
+D, [2020-03-26T15:06:28.984962 #71220] DEBUG -- : DownloadThread response: 200

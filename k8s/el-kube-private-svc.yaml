@@ -1,0 +1,11 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: el-kube-private
+spec:
+  clusterIP: None
+  ports:
+    - name: epmd
+      port: 4369
+  selector:
+    app: el-kube
